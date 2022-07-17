@@ -27,7 +27,7 @@ redirect_from: /zh-cn/legal/
 
 最后，你们的项目可能和你们不知道的许可证要求存在依赖关系。你们的项目社区，或者你们的雇主政策也可能要求你们使用特定的开源许可协议。我们将在下面介绍这些情况。
 
-## Github上的公开项目都是开源的吗？
+## GitHub上的公开项目都是开源的吗？
 
 当你们在GitHub上[创建一个新项目](https://help.github.com/articles/creating-a-new-repository/) 时，你们可以选择将仓库设置成**private**或者**public**。
 
@@ -126,7 +126,7 @@ redirect_from: /zh-cn/legal/
 
 * **专利：**你们公司是否申请了与你们项目有关的专利？如果开源源代码，这会对公司的专利进行[公开披露](https://en.wikipedia.org/wiki/Public_disclosure)。可悲的是，你们可能被要求等待（或者公司会重新思考应用程序）。如果你们期望从拥有大量专利组合的公司的员工那里得到贡献，们的法律团队可能希望你们使用来自贡献者的明确专利授权的许可协议（例如Apache 2.0或GPLv3）或其他贡献者协议（见上文）。
 
-* **商标：**认真检查你们的项目名[没有与已经存在的商标冲突](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#避免命名冲突)。如果你们将自己公司的商标用于项目，请检查它有没有造成冲突。[FOSSmarks](http://fossmarks.org/)是在自由和开源项目的背景下理解商标的实用指南。
+* **商标：**认真检查你们的项目名[没有与已经存在的商标冲突](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/HEAD/github-open-source-guide-02.md#避免命名冲突)。如果你们将自己公司的商标用于项目，请检查它有没有造成冲突。[FOSSmarks](http://fossmarks.org/)是在自由和开源项目的背景下理解商标的实用指南。
 
 * **隐私：**你们的项目是否收集了用户数据并存储到公司的服务器？你们的法律团队可以帮助你们遵守公司政策和外部法规。
 
